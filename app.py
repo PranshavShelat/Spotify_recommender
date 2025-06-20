@@ -39,6 +39,9 @@ if song_name:
 if st.session_state.get("show_recs", False):
     st.subheader("Recommended Songs")
     recommendations = recommend(st.session_state.selected_song, df_full, st.session_state.num_recs)
+    recommendations = recommendations.reset_index(drop=True)
     recommendations.index = recommendations.index + 1
     st.dataframe(recommendations)
+
+
 
