@@ -6,7 +6,7 @@ A genre based song recommendation system that uses Spotify audio features to rec
 
 ## Live Demo
 
-Try the app 👉 [spotifyrecommender1.streamlit.app](https://spotifyrecommender1.streamlit.app)
+Try the app: [spotifyrecommender1.streamlit.app](https://spotifyrecommender1.streamlit.app)
 
 ---
 
@@ -35,11 +35,11 @@ README.md                    - Project documentation
 
 ## Features
 
-- 🔎 Fuzzy search: match even if song name isn’t exact
-- 🎯 Cluster-based recommendations using KMeans
-- 🎛️ User-defined number of recommendations
-- 📋 Clean table output of results
-- 🌐 Fully deployed on [Streamlit Cloud](https://streamlit.io/cloud)
+- Fuzzy search: match even if song name isn’t exact
+- Cluster-based recommendations using KMeans
+- User-defined number of recommendations
+- Clean table output of results
+- Fully deployed on [Streamlit Cloud](https://streamlit.io/cloud)
 
 ---
 
