@@ -9,7 +9,11 @@ Try it here: [spotifyrecommender1.streamlit.app](https://spotifyrecommender1.str
 ---
 
 ## Project Structure
-├── app.py # Streamlit app code
-├── spotify_dataset_cleaned.csv # Cleaned dataset with cluster labels
-├── requirements.txt # Python dependencies
 
+```text
+.
+├── app.py                      # Main Streamlit app
+├── spotify_dataset_cleaned.csv # Cleaned dataset with cluster labels
+├── requirements.txt            # Python dependencies for Streamlit Cloud
+├── Song_recommendation.ipynb   # Jupyter notebook used for EDA + clustering
+├── README.md                   # Project documentation
