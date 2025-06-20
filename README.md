@@ -14,12 +14,12 @@ Try the app 👉 [spotifyrecommender1.streamlit.app](https://spotifyrecommender1
 
 
 
-├── app.py # Main Streamlit app
+app.py                        - Main Streamlit app  
+spotify_dataset_cleaned.csv  - Cleaned dataset with cluster labels  
+requirements.txt             - Python dependencies for Streamlit  
+Song_recommendation.ipynb    - Jupyter notebook for EDA & clustering  
+README.md                    - Project documentation  
 
-├── spotify_dataset_cleaned.csv # Cleaned dataset with cluster labels
-├── requirements.txt # Python dependencies for Streamlit Cloud
-├── Song_recommendation.ipynb # Jupyter notebook for EDA & clustering
-├── README.md # Project documentation
 
 
 ---
