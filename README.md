@@ -1,4 +1,4 @@
-#Spotify Genre-Based Song Recommender
+# Spotify Genre-Based Song Recommender
 
 A genre-based song recommendation system that uses Spotify audio features to recommend songs similar in sound and style. Built with machine learning and Streamlit.
 
