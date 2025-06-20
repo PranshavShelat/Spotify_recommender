@@ -8,7 +8,7 @@ Try it here: [spotifyrecommender1.streamlit.app](https://spotifyrecommender1.str
 
 ---
 
-##Project Structure
+## Project Structure
 ├── app.py # Streamlit app code
 ├── spotify_dataset_cleaned.csv # Cleaned dataset with cluster labels
 ├── requirements.txt # Python dependencies
