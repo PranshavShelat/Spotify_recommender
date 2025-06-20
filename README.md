@@ -12,6 +12,7 @@ Try the app 👉 [spotifyrecommender1.streamlit.app](https://spotifyrecommender1
 
 ## Project Structure
 
+```text
 .
 ├── app.py # Main Streamlit app
 ├── spotify_dataset_cleaned.csv # Cleaned dataset with cluster labels
@@ -19,7 +20,7 @@ Try the app 👉 [spotifyrecommender1.streamlit.app](https://spotifyrecommender1
 ├── Song_recommendation.ipynb # Jupyter notebook for EDA & clustering
 ├── README.md # Project documentation
 
-
+```
 ---
 
 ## How It Works
